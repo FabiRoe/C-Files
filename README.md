@@ -1,4 +1,6 @@
 # CPlusPlus-Files
+Von: Marion Stollenwerk, Fabian Rödder
+
 
 1. Vorbereitung I
 
@@ -41,5 +43,7 @@ Option „Suchen“: Ermöglichen Sie eine Suche nach einer Kategorie innerhalb 
 Beispiel:
 Category: type: blue-ray, dvd
 Search for: title, genre, bewertung, schauspieler, preis...
+
+
 
 
