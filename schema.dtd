@@ -1,0 +1,10 @@
+<!ELEMENT medien (filme+)>
+<!ELEMENT filme (titel, preis, type, genre+, regisseur, jahr, schauspieler+, bewertung?)>
+<!ELEMENT titel (#PCDATA)>
+<!ELEMENT preis (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT regisseur (#PCDATA)>
+<!ELEMENT jahr (#PCDATA)>
+<!ELEMENT schauspieler (#PCDATA)>
+<!ELEMENT bewertung (#PCDATA)>
