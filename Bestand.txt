@@ -1,0 +1,10 @@
+01 0 Mueller
+02 1 Mediathek
+03 0 Meier
+04 1 Mediathek
+05 1 Mediathek
+06 1 Mediathek
+07 0 Kurz
+08 0 Schmitz
+09 0 Bauer
+10 0 Solnek
