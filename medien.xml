@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE medien SYSTEM "schema.dtd">
+
+<medien>
+    <!--Film 1-->
+    <filme xml:id="01">
+        <titel>Gran Torino</titel>
+        <preis>2,99</preis>
+        <type>DVD</type>
+        <genre>Drama</genre>
+        <regisseur>Clint Eastwood</regisseur>
+        <jahr>2008</jahr>
+        <schauspieler>Clint Eastwood</schauspieler>
+        <schauspieler>Bee Vang</schauspieler>
+        <bewertung>8,2/10</bewertung>
+    </filme>
+    <!--Film 2-->
+    <filme xml:id="02">
+        <titel>Inception</titel>
+        <preis>3,99</preis>
+        <type>Blu-Ray</type>
+        <genre>Thriller</genre>
+        <regisseur>Christopher Nolan</regisseur>
+        <jahr>2010</jahr>
+        <schauspieler>Leonardo Dicaprio</schauspieler>
+        <bewertung>8,8/10</bewertung>
+    </filme>
+    <!--Film 3-->
+    <filme xml:id="03">
+        <titel>Elliot, das Schmunzelmonster</titel>
+        <preis>2,99</preis>
+        <type>DVD</type>
+        <genre>Abenteuer</genre>
+        <regisseur>Don Chaffey</regisseur>
+        <jahr>1977</jahr>
+        <schauspieler>Sean Marshall</schauspieler>
+        <bewertung>6,3/10</bewertung>
+    </filme>
+    <!--Film 4-->
+    <filme xml:id="04">
+        <titel>Django Unchained</titel>
+        <preis>4,99</preis>
+        <type>Blu-Ray</type>
+        <genre>Action</genre>
+        <regisseur>Quentin Tarantino</regisseur>
+        <jahr>2012</jahr>
+        <schauspieler>Christoph Waltz</schauspieler>
+        <schauspieler>Jamie Foxx</schauspieler>
+        <bewertung>8,5/10</bewertung>
+    </filme>
+    <!--Film 5-->
+    <filme xml:id="05">
+        <titel>Interstellar</titel>
+        <preis>3,99</preis>
+        <type>DVD</type>
+        <genre>Sci-Fi</genre>
+        <regisseur>Christopher Nolan</regisseur>
+        <jahr>2014</jahr>
+        <schauspieler>Matthew McConaughey</schauspieler>
+        <bewertung>8,6/10</bewertung>
+    </filme>
+    <!--Film 6-->
+    <filme xml:id="06">
+        <titel>Das erstaunliche Leben des Walter Mitty </titel>
+        <preis>2,99</preis>
+        <type>Blu-Ray</type>
+        <genre>Abenteuer</genre>
+        <regisseur>Ben Stiller</regisseur>
+        <jahr>2013</jahr>
+        <schauspieler>Ben Stiller</schauspieler>
+        <bewertung>7,3/10</bewertung>
+    </filme>
+    <!--Film 7-->
+    <filme xml:id="07">
+        <titel>Per Anhalter durch die Galaxis</titel>
+        <preis>2,99</preis>
+        <type>DVD</type>
+        <genre>Abenteuer</genre>
+        <regisseur>Garth Jennings</regisseur>
+        <jahr>2005</jahr>
+        <schauspieler>Martin Freeman</schauspieler>
+        <schauspieler>Yasiin Bey</schauspieler>
+        <bewertung>6,8/10</bewertung>
+    </filme>
+    <!--Film 8-->
+    <filme xml:id="08">
+        <titel>Zurück in die Zukunft</titel>
+        <preis>2,99</preis>
+        <type>Blu-Ray</type>
+        <genre>Abenteuer</genre>
+        <regisseur>Robert Zemeckis</regisseur>
+        <jahr>1985</jahr>
+        <schauspieler>Michael J. Fox</schauspieler>
+        <schauspieler>Christopher Lloyd</schauspieler>
+        <schauspieler>Lea Thompson</schauspieler>
+        <bewertung>8,5/10</bewertung>
+    </filme>
+    <!--Film 9-->
+    <filme xml:id="09">
+        <titel>The Dark Knight</titel>
+        <preis>3,99</preis>
+        <type>DVD</type>
+        <genre>Action</genre>
+        <regisseur>Christopher Nolan</regisseur>
+        <jahr>2008</jahr>
+        <schauspieler>Christian Bale</schauspieler>
+        <bewertung>9/10</bewertung>
+    </filme>
+    <!--Film 10-->
+    <filme xml:id="10">
+        <titel>Deadpool</titel>
+        <preis>2,99</preis>
+        <type>Blu-Ray</type>
+        <genre>Action</genre>
+        <regisseur>Tim Miller</regisseur>
+        <jahr>2016</jahr>
+        <schauspieler>Ryan Reynolds</schauspieler>
+        <bewertung>8,1/10</bewertung>
+    </filme>
+</medien>   
