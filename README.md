@@ -2,22 +2,13 @@
 Von: Marion Stollenwerk, Fabian Rödder
 
 
-1. Vorbereitung I
-
-
-
-Entwerfen Sie einen konkreten Anwendungsfall und erstellen Sie zwei unterschiedlich strukturierte Datenquellen.
-
-Mindestens eine Quelle soll im Format XML (mit DTD) angelegt werden.
-
-
-Anwendungsfall:
-
-Wir haben und für eine XML und TXT als Datenquelle entschieden.
-
-Wir haben eine Film-Mediathek. Über die Datenbank lässt sich herauslesen, ob der jeweilige Film ausgeliehen ist und wo dieser sich befindet.
-
-
+ folgende Optionen bestehen:
+ > (a)nzeigen
+ > (k)onvertieren
+ > (s)uchen
+ > (e)rweiterte Suche
+ >e(x)portieren
+ > (v)erlassen
 
 XML: 
 film id:
