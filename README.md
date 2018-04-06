@@ -1,7 +1,7 @@
 # CPlusPlus-Files
 Von: Marion Stollenwerk, Fabian Rödder
 
-PROBLEM: Das Programm läuft unter Linux Geany, mit QT Creator bereitet es Probleme
+Das Programm läuft unter Linux Geany, mit QT Creator bereitet es Probleme
 
 XML: 
 film id:
